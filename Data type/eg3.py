@@ -1,0 +1,5 @@
+var1= input("Enter the first string:")
+var2= input ("Enter the second string:")
+var1= int(var1)
+var2= int(var2)
+print ( var1 * var2 )
